@@ -1,13 +1,12 @@
 # IEEE Formatted Article: Analytical Findings from Maryland Car Sales Data
-## Tools:
+### Tools:
 ### Tableau| PHSTAT| Excel
 
 
-## This repository contains an IEEE formatted article that dissects the analytical findings from a Maryland car sales data set. The article includes detailed visualizations and insights that are crucial for stakeholders in the vehicle retail industry.
+### This repository contains an IEEE formatted article that dissects the analytical findings from a Maryland car sales data set. The article includes detailed visualizations and insights that are crucial for stakeholders in the vehicle retail industry.
 
 [View and Download the IEEE Article](https://github.com/dkaybee2022/Car-Sales-Forecasting-/blob/main/Used%20Car%20Analysis%20-2.pdf)
 
-#### **Click on Car-Sales-Forecasting..docx then click on  "view raw" to view document**
 
 ## Data Analysis and Visualization
 ### The data set was meticulously analyzed to uncover trends and patterns in car sales. Key metrics such as sales volume, growth rates, and seasonal variations were examined. The visualizations included in this article provide a clear and concise representation of these findings.
