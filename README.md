@@ -4,3 +4,4 @@
 
 
 #### Click on Car-Sales-Forecasting then click on  "view raw" to view document
+<img width="212" alt="image" src="https://github.com/dkaybee2022/Car-Sales-Forecasting-/assets/147632964/7d567118-2ae8-4eee-853c-7a6367a650da">
