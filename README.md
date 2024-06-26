@@ -2,10 +2,10 @@
 ## Tools:
 ### Tableau| PHSTAT| Excel
 
-## Overview
-### This article presents an analytical dissection of car sales data from Maryland, highlighting the relationship between used car sales and new car sales, along with projections for 2023. The analysis was performed using Microsoft Excel, while the visualizations were created using Tableau. The insights derived from this study are intended to assist stakeholders in the vehicle retail industry in making informed decisions on which type of cars to target in their marketing efforts.
 
+## This repository contains an IEEE formatted article that dissects the analytical findings from a Maryland car sales data set. The article includes detailed visualizations and insights that are crucial for stakeholders in the vehicle retail industry.
 
+[View and Download the IEEE Article](https://github.com/dkaybee2022/Car-Sales-Forecasting-/blob/main/Used%20Car%20Analysis%20-2.pdf)
 
 #### **Click on Car-Sales-Forecasting..docx then click on  "view raw" to view document**
 
